@@ -24,7 +24,7 @@
 ## Description
 * The conventional method used was granulometry. However the accuracy rate of granulometry is highly dependent on cell overlapping. For objects containing highly overlapped cells, the method fails to accurately measure the size of the components.
 
-* The Watershed Segmentation algorithm has many applications and is quite useful for segmenting overlapping objects. The project uses both OTSU binarization and Watershed to threshold and segment the cell nuclei from the tissues. The image show the cell nuclei as blue as they have been dyed with [DAPI](https://en.wikipedia.org/wiki/DAPI) to make segmentation easier as one only needs to extract the Blue Channel from RGB. 
+* The Watershed Segmentation algorithm has many applications and is quite useful for segmenting overlapping objects. The project uses both OTSU binarization and Watershed to threshold and segment the cell nuclei from the tissues. The image shows the cell nuclei as blue as they have been dyed with [DAPI](https://en.wikipedia.org/wiki/DAPI) to make segmentation easier as one only needs to extract the Blue Channel from RGB. 
 
 #### Technologies
 
