@@ -3,7 +3,7 @@
 
 
 
-| ![VideoBlocks](https://static1.olympus-lifescience.com/modules/imageresizer/599/856/ffd2cef388/700x504p350x252.jpg)  | ![](https://i.ibb.co/8bng010/opening.jpg) | ![GraphicStock](https://i.ibb.co/N1jVVcy/Markers.jpg) |
+| ![VideoBlocks](https://github.com/RohanTrix/Osteosarcoma-cell-Segmentation-using-Watershed/blob/master/images/cells.jpg)  | ![](https://i.ibb.co/8bng010/opening.jpg) | ![GraphicStock](https://i.ibb.co/N1jVVcy/Markers.jpg) |
 |:---:|:---:|:---:|
 | |  |  |
 
